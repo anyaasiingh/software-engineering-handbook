@@ -128,5 +128,3 @@ Breaking into software engineering can feel overwhelming, but it follows a logic
 4. **Build Real Projects:** Avoid getting stuck in "tutorial hell." Break out by building your own projects from scratch. Start small (a calculator, a to-do list) and scale up (a full-stack blog, a weather app using public APIs).
 5. **Learn Deployment & Architecture:** Understand how to get your code onto the internet using platforms like Netlify, Vercel, or AWS, and learn the basics of databases.
 6. **Collaborate & Contribute:** Join open-source projects, read other people's code, and learn to write clean, well-documented software.
-
-> **💡 Pro Tip for Learners:** Check out [roadmap.sh](https://roadmap.sh/) for highly detailed, step-by-step visual learning paths tailored for almost every specific role listed in this handbook!
