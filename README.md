@@ -129,3 +129,12 @@ Imagine a company is building a massive new food delivery app; everyone must col
 
 ## 📚 How to Get Started
 Getting started in software engineering can feel overwhelming, but the most important rule is that you do not need to learn everything at once. Begin by picking just one specific path that interests you—for example, start with HTML and CSS if you enjoy designing visual websites, or start with Python if you love working with data and logic. Instead of getting stuck simply watching endless tutorial videos, challenge yourself to build small, real-world projects like a digital calculator, a personal blog, or a simple weather app. Finally, upload your completed projects to your GitHub account so you can build a strong portfolio to show employers exactly what you are capable of creating.
+<br>
+---
+
+## 👨‍💻 Author
+Made by **Anya Singh**
+Heritage Institute Of Technology | B.Tech CSE (2025-2029)
+
+
+
