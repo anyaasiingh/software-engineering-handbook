@@ -20,8 +20,18 @@
 
 ## 💻 What is Software Engineering?
 
-**Software Engineering** is the disciplined application of engineering principles to design, build, test, and maintain software systems. It goes far beyond just "writing code." It is about solving complex human and business problems by creating digital tools that are **reliable, scalable, secure, and maintainable**. 
+> **Software Engineering** is the systematic application of engineering principles, methods, and best practices to the design, development, testing, deployment, and maintenance of software systems.
 
+Unlike simply writing code, software engineering focuses on building software that is:
+
+| 🛡️ Reliable | ⚡ Efficient | 🔒 Secure |
+| :--- | :--- | :--- |
+| **📈 Scalable** | **🛠️ Maintainable** | **💰 Cost-effective** |
+
+---
+
+### 🔄 The Core Focus
+Software engineers operate throughout the entire **Software Development Life Cycle (SDLC)**, bridging the gap between user requirements and high-quality, high-performance digital solutions.
 ## 🧭 Why Are There Different Roles?
 
 Building modern software is like building a smart city. You cannot have a single person handle the plumbing, the electrical grid, the skyscrapers, and the traffic lights. 
@@ -120,17 +130,3 @@ Breaking into software engineering can feel overwhelming, but it follows a logic
 6. **Collaborate & Contribute:** Join open-source projects, read other people's code, and learn to write clean, well-documented software.
 
 > **💡 Pro Tip for Learners:** Check out [roadmap.sh](https://roadmap.sh/) for highly detailed, step-by-step visual learning paths tailored for almost every specific role listed in this handbook!
-## 💻 What is Software Engineering?
-
-> **Software Engineering** is the systematic application of engineering principles, methods, and best practices to the design, development, testing, deployment, and maintenance of software systems.
-
-Unlike simply writing code, software engineering focuses on building software that is:
-
-| 🛡️ Reliable | ⚡ Efficient | 🔒 Secure |
-| :--- | :--- | :--- |
-| **📈 Scalable** | **🛠️ Maintainable** | **💰 Cost-effective** |
-
----
-
-### 🔄 The Core Focus
-Software engineers operate throughout the entire **Software Development Life Cycle (SDLC)**, bridging the gap between user requirements and high-quality, high-performance digital solutions.
