@@ -9,6 +9,30 @@
 * [What is Software Engineering?](#what-is-software-engineering)
 * [Why Are There Different Roles?](#why-are-there-different-roles)
 * [The 24 Software Engineering Roles](#the-24-software-engineering-roles)
+  * Frontend Developer
+  * Backend Developer
+  * Full Stack Developer
+  * Mobile Application Developer
+  * Game Developer
+  * Embedded Systems Engineer
+  * Software Architect
+  * Solutions Architect
+  * DevOps Engineer
+  * Cloud Engineer
+  * Site Reliability Engineer (SRE)
+  * Database Administrator (DBA)
+  * Data Engineer
+  * Data Scientist
+  * Machine Learning Engineer
+  * AI Engineer
+  * QA (Quality Assurance) Engineer
+  * Software Development Engineer in Test (SDET)
+  * Cybersecurity Engineer
+  * Blockchain Developer
+  * UI/UX Designer
+  * Product Manager
+  * Engineering Manager
+  * Technical Writer
 * [How They All Work Together](#how-they-all-work-together)
 * [How to Get Started](#how-to-get-started)
 
