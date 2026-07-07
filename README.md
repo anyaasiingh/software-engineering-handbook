@@ -134,6 +134,7 @@ Getting started in software engineering can feel overwhelming, but the most impo
 
 ## 👨‍💻 Author
 Made by **Anya Singh**
+<br>
 Heritage Institute Of Technology | B.Tech CSE (2025-2029)
 
 
